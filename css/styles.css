@@ -52,16 +52,30 @@ main{
     display: flex;
 }
 
+.contenedor-instagram {
+    display: flex;
+}
+
 .fa-whatsapp {
     font-size: 50px;
-    color: #25D366;
+    color: black;
     align-items: center;
 }
 
-.num-whatsapp {
+.fa-instagram {
+    font-size: 50px;
+    color: black;
+    align-items: center;
+}
+
+.num-whatsapp .cuenta-instagram {
     margin-left: 10px;
     font-size: 20px;
     align-items: center;
+}
+
+.cuenta-instagram {
+
 }
 
 .pie-pagina {
